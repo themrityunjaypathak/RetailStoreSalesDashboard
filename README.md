@@ -5,7 +5,7 @@
 <hr>
 
 ## Problem Statement
-- To create a dashboard that provides a clear overview of sales performance enabling owner to gain actionable insights.
+- To create a dashboard that provides an overview of sales enabling owner to gain actionable insights.
 
 <hr>
 
