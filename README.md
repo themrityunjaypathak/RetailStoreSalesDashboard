@@ -29,13 +29,13 @@ Report has multiple section's from where you can manage the data, like :
 ## Getting Started
 - Clone this repository to your local machine by using the following command :
 ```
-git clone https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard.git
+git clone https://github.com/themrityunjaypathak/RetailStoreSalesDashboard.git
 ```
 
 <hr>
 
 ## Link to the Dataset
-- [Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)
+- [Retail Store Sales Dataset](https://github.com/themrityunjaypathak/RetailStoreSalesDashboard/tree/main/Dataset)
 
 <hr>
 
